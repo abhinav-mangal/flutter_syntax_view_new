@@ -28,7 +28,7 @@ class RichTextControllerDemo extends StatefulWidget {
 
 class _RichTextControllerDemoState extends State<RichTextControllerDemo> {
   final double _fontScaleFactor = 1.0;
-  static const double fontSize = 14.0;
+  static const double fontSize = 20.0;
   bool expanded = true;
   static String chosenTheme = "dracula";
   static Map<dynamic, dynamic> changeTheme =
