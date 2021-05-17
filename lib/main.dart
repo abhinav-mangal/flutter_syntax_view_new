@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'RichText Controller Demo',
+      title: 'MyRichText Controller Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
